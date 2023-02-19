@@ -4,7 +4,7 @@ Comprehensive Python Cheatsheet popcorn
 </sup>
 
 ![Monty Python](web/image_888.jpeg)
-I love 
+I love PYTHON
 
 Contents
 --------
